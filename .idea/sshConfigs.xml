@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="fs09.hs.uni-hamburg.de" id="263b09aa-6bc4-432a-adcd-01f132b3eff9" port="22" nameFormat="DESCRIPTIVE" username="bax8338" />
+    </configs>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0e440657-fc75-442d-bdfe-4b9ad5e3a035" name="fs09">
+        <fileTransfer accessType="SFTP" host="fs09.hs.uni-hamburg.de" port="22" sshConfigId="263b09aa-6bc4-432a-adcd-01f132b3eff9" sshConfig="bax8338@fs09.hs.uni-hamburg.de:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
